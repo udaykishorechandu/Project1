@@ -12,7 +12,7 @@
       margin: 0;
       outline: none;
       font-family: Roboto, Arial, sans-serif;
-      font-size: 25px;
+      font-size: 20px;
       color: #faebe7;
       line-height: 22px;
       }
@@ -37,7 +37,7 @@
       width: 100%;
       padding: 20px;
       border-radius: 6px;
-      background: #cococo;
+      background: #FFF;
       box-shadow: 0 0 25px 0 #000;
       }
      .banner {
