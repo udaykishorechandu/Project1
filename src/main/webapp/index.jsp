@@ -14,7 +14,7 @@
       font-family: Roboto, Arial, sans-serif;
       font-size: 100px;
       color: #000;
-      line-height: 29px;
+      line-height: 24px;
       }
       h1 {
       position: absolute;
